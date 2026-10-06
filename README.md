@@ -13,7 +13,7 @@ Data Science Master’s student with a BSc in Statistics for Economics and Busin
 
 - Developed an R library to forecast day-ahead hourly electricity prices in the Italian market, using a 2.5-year time series and a weighted k-Nearest Neighbors algorithm to predict full 24-hour profiles.
 - Selected the number of neighbors, distance metric and target aggregation method using 90-day rolling validation, evaluating MAE, RMSE and SMAPE.
-- Benchmarked against a SARIMA baseline over six months of out-of-sample forecasts. A Diebold-Mariano test on daily MAE showed no significant difference, while kNN proved more robust to price-level shifts.
+- Benchmarked against a SARIMA baseline over six months of out-of-sample forecasts.
 
 **Multiclass Logistic Regression Optimization**
 
