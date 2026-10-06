@@ -1,5 +1,5 @@
 ## Federico Russo
-Data Science Master’s student with a BSc in Statistics for Economics and Business. I have solid practical experience using R for statistical analysis and time-series forecasting, alongside Python for building machine learning models. Through academic projects, I have also gained hands-on experience with reinforcement learning and distributed data processing with PySpark. I am eager to apply my statistical foundation to solve real-world data challenges.
+Data Science Master’s student with a BSc in Statistics for Economics and Business. I have practical experience using R for statistical analysis and time-series forecasting, alongside Python for building machine learning models. Through academic projects, I have also gained hands-on experience with reinforcement learning and distributed data processing with PySpark. I am eager to apply my statistical foundation to solve real-world data challenges.
 
 ## Key Projects
 
