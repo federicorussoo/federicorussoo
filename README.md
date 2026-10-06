@@ -31,9 +31,3 @@ Data Science Master’s student with a BSc in Statistics for Economics and Busin
 ![LimeSurvey](https://img.shields.io/badge/LimeSurvey-009A44?style=for-the-badge&logo=limesurvey&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
-## Contact
-
-* LinkedIn: www.linkedin.com/in/federicorussoo
-* Email: federicorusso003@gmail.com
