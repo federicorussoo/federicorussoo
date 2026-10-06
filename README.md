@@ -1,6 +1,12 @@
 ## Federico Russo
 Data Science Master’s student with a BSc in Statistics for Economics and Business. I have practical experience using R for statistical analysis and time-series forecasting, alongside Python for building machine learning models. Through academic projects, I have also gained hands-on experience with reinforcement learning and distributed data processing with PySpark. I am eager to apply my statistical foundation to solve real-world data challenges.
 
+## Background
+
+* Master of Science in Data Science @ University of Padua (September 2025 - Present)
+* Bachelor of Science in Statistics for Economics and Business @ University of Padua, 110/110 (September 2022 - September 2025)
+* High School Diploma @ G. Marconi High School, Conegliano, Italy, 98/100 (September 2017 - June 2022)
+
 ## Key Projects
 
 **Electricity Price Forecasting (BSc Thesis)**
@@ -17,9 +23,8 @@ Data Science Master’s student with a BSc in Statistics for Economics and Busin
 
 - Co-developed a distributed MapReduce algorithm for fair k-center clustering on datasets of up to 13 million points, evaluating scalability on a cluster by tuning partitioning and caching.
 - Built a streaming application using Sticky Sampling and Count-Min Sketch to detect approximate frequent items on streams of 1,000,000 items, benchmarking memory usage and false-positive rates.
-
+  
 ## Contact
 
-LinkedIn: www.linkedin.com/in/federicorussoo
-
-Email: federicorusso003@gmail.com
+* LinkedIn: www.linkedin.com/in/federicorussoo
+* Email: federicorusso003@gmail.com
